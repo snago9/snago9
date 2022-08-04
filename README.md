@@ -1,6 +1,5 @@
-Makdown Study
+자기소개
 ========
-Open Source 2분반  
 [단국대학교](https://www.dankook.ac.kr/web/kor)   
 소프트웨어학과   
 32183842   
